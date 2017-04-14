@@ -1,2 +1,1 @@
-# hx003_csci204_finalproject
-Final Project for CSCI204
+Please see the user manual before running the GUI.
